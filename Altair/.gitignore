@@ -1,0 +1,13 @@
+# Ignora la carpeta .venv
+.venv
+
+# Datasets
+*.csv
+*.parquet
+*.zip
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Ignorar carpetas de datos
+.datos
